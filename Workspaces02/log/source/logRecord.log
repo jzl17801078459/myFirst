@@ -1,0 +1,25 @@
+
+2016-10-19 09:29:18,603INFO [com.apa.Demo.one(Demo.java:13)] into one method
+   
+2016-10-19 09:29:18,606ERROR [com.apa.Demo.one(Demo.java:21)] / by zero
+   
+2016-10-19 09:29:18,606INFO [com.apa.Demo.one(Demo.java:25)] out one method
+   
+2016-10-19 09:30:25,885INFO [com.apa.Demo.one(Demo.java:13)] into one method
+   
+2016-10-19 09:30:25,887ERROR [com.apa.Demo.one(Demo.java:21)] / by zero
+   
+2016-10-19 09:30:25,887INFO [com.apa.Demo.one(Demo.java:25)] out one method
+   
+2016-10-19 09:36:29,045INFO [com.apa.Demo.one(Demo.java:13)] into one method
+   
+2016-10-19 09:36:31,103ERROR [com.apa.Demo.one(Demo.java:21)] / by zero
+   
+2016-10-19 09:36:31,103INFO [com.apa.Demo.one(Demo.java:25)] out one method
+   
+2016-10-19 09:37:45,401INFO [com.apa.Demo.one(Demo.java:13)] into one method
+   
+2016-10-19 09:37:45,404ERROR [com.apa.Demo.one(Demo.java:21)] / by zero
+   
+2016-10-19 09:37:45,404INFO [com.apa.Demo.one(Demo.java:25)] out one method
+   

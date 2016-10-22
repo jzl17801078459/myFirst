@@ -1,0 +1,13 @@
+
+2016-10-19 09:40:55,109INFO [com.apa.Demo.one(Demo.java:13)] into one method
+   
+2016-10-19 09:40:55,112ERROR [com.apa.Demo.one(Demo.java:21)] / by zero
+   
+2016-10-19 09:40:55,112INFO [com.apa.Demo.one(Demo.java:25)] out one method
+   
+2016-10-19 09:48:28,378INFO [com.apa.Demo.one(Demo.java:13)] into one method
+   
+2016-10-19 09:48:28,381ERROR [com.apa.Demo.one(Demo.java:21)] / by zero
+   
+2016-10-19 09:48:28,381INFO [com.apa.Demo.one(Demo.java:25)] out one method
+   
